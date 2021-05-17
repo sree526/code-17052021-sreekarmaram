@@ -1,0 +1,701 @@
+[{
+    "Gender": "Female",
+    "HeightCm": 153,
+    "WeightKg": 70,
+    "bmi": "29.9",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 200,
+    "WeightKg": 86,
+    "bmi": "21.5",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 166,
+    "WeightKg": 73,
+    "bmi": "26.5",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 171,
+    "WeightKg": 73,
+    "bmi": "25.0",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 184,
+    "WeightKg": 92,
+    "bmi": "27.2",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 147,
+    "WeightKg": 45,
+    "bmi": "20.8",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 163,
+    "WeightKg": 70,
+    "bmi": "26.3",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 180,
+    "WeightKg": 66,
+    "bmi": "20.4",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 141,
+    "WeightKg": 70,
+    "bmi": "35.2",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 149,
+    "WeightKg": 68,
+    "bmi": "30.6",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 178,
+    "WeightKg": 47,
+    "bmi": "14.8",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 151,
+    "WeightKg": 100,
+    "bmi": "43.9",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 158,
+    "WeightKg": 84,
+    "bmi": "33.6",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 148,
+    "WeightKg": 59,
+    "bmi": "26.9",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 175,
+    "WeightKg": 60,
+    "bmi": "19.6",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 157,
+    "WeightKg": 82,
+    "bmi": "33.3",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 189,
+    "WeightKg": 84,
+    "bmi": "23.5",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 157,
+    "WeightKg": 64,
+    "bmi": "26.0",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 151,
+    "WeightKg": 78,
+    "bmi": "34.2",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 192,
+    "WeightKg": 100,
+    "bmi": "27.1",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 168,
+    "WeightKg": 45,
+    "bmi": "15.9",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 199,
+    "WeightKg": 78,
+    "bmi": "19.7",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 184,
+    "WeightKg": 53,
+    "bmi": "15.7",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 191,
+    "WeightKg": 52,
+    "bmi": "14.3",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 170,
+    "WeightKg": 99,
+    "bmi": "34.3",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 198,
+    "WeightKg": 91,
+    "bmi": "23.2",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 164,
+    "WeightKg": 87,
+    "bmi": "32.3",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 162,
+    "WeightKg": 80,
+    "bmi": "30.5",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 162,
+    "WeightKg": 56,
+    "bmi": "21.3",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 176,
+    "WeightKg": 71,
+    "bmi": "22.9",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 153,
+    "WeightKg": 99,
+    "bmi": "42.3",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 179,
+    "WeightKg": 45,
+    "bmi": "14.0",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 167,
+    "WeightKg": 83,
+    "bmi": "29.8",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 181,
+    "WeightKg": 74,
+    "bmi": "22.6",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 165,
+    "WeightKg": 79,
+    "bmi": "29.0",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 173,
+    "WeightKg": 74,
+    "bmi": "24.7",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 145,
+    "WeightKg": 96,
+    "bmi": "45.7",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 153,
+    "WeightKg": 48,
+    "bmi": "20.5",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 169,
+    "WeightKg": 49,
+    "bmi": "17.2",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 170,
+    "WeightKg": 47,
+    "bmi": "16.3",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 186,
+    "WeightKg": 55,
+    "bmi": "15.9",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 152,
+    "WeightKg": 55,
+    "bmi": "23.8",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 150,
+    "WeightKg": 90,
+    "bmi": "40.0",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 199,
+    "WeightKg": 62,
+    "bmi": "15.7",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 175,
+    "WeightKg": 67,
+    "bmi": "21.9",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 149,
+    "WeightKg": 91,
+    "bmi": "41.0",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 157,
+    "WeightKg": 99,
+    "bmi": "40.2",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 167,
+    "WeightKg": 92,
+    "bmi": "33.0",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 192,
+    "WeightKg": 94,
+    "bmi": "25.5",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 196,
+    "WeightKg": 63,
+    "bmi": "16.4",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 177,
+    "WeightKg": 75,
+    "bmi": "23.9",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 159,
+    "WeightKg": 89,
+    "bmi": "35.2",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 199,
+    "WeightKg": 46,
+    "bmi": "11.6",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 193,
+    "WeightKg": 74,
+    "bmi": "19.9",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 172,
+    "WeightKg": 48,
+    "bmi": "16.2",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 158,
+    "WeightKg": 65,
+    "bmi": "26.0",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 185,
+    "WeightKg": 59,
+    "bmi": "17.2",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 150,
+    "WeightKg": 87,
+    "bmi": "38.7",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 179,
+    "WeightKg": 85,
+    "bmi": "26.5",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 182,
+    "WeightKg": 77,
+    "bmi": "23.2",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 160,
+    "WeightKg": 80,
+    "bmi": "31.2",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 148,
+    "WeightKg": 89,
+    "bmi": "40.6",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 167,
+    "WeightKg": 88,
+    "bmi": "31.6",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 200,
+    "WeightKg": 88,
+    "bmi": "22.0",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 191,
+    "WeightKg": 87,
+    "bmi": "23.8",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 197,
+    "WeightKg": 87,
+    "bmi": "22.4",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 165,
+    "WeightKg": 66,
+    "bmi": "24.2",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 195,
+    "WeightKg": 52,
+    "bmi": "13.7",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 193,
+    "WeightKg": 93,
+    "bmi": "25.0",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 147,
+    "WeightKg": 83,
+    "bmi": "38.4",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 170,
+    "WeightKg": 51,
+    "bmi": "17.6",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 144,
+    "WeightKg": 74,
+    "bmi": "35.7",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 165,
+    "WeightKg": 78,
+    "bmi": "28.7",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 180,
+    "WeightKg": 98,
+    "bmi": "30.2",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 148,
+    "WeightKg": 82,
+    "bmi": "37.4",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 170,
+    "WeightKg": 92,
+    "bmi": "31.8",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 172,
+    "WeightKg": 68,
+    "bmi": "23.0",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 147,
+    "WeightKg": 79,
+    "bmi": "36.6",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 141,
+    "WeightKg": 50,
+    "bmi": "25.1",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 168,
+    "WeightKg": 82,
+    "bmi": "29.1",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 155,
+    "WeightKg": 93,
+    "bmi": "38.7",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 166,
+    "WeightKg": 96,
+    "bmi": "34.8",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 178,
+    "WeightKg": 49,
+    "bmi": "15.5",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 185,
+    "WeightKg": 49,
+    "bmi": "14.3",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Female",
+    "HeightCm": 197,
+    "WeightKg": 47,
+    "bmi": "12.1",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 155,
+    "WeightKg": 97,
+    "bmi": "40.4",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 160,
+    "WeightKg": 57,
+    "bmi": "22.3",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 182,
+    "WeightKg": 80,
+    "bmi": "24.2",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 143,
+    "WeightKg": 57,
+    "bmi": "27.9",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 168,
+    "WeightKg": 88,
+    "bmi": "31.2",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 185,
+    "WeightKg": 61,
+    "bmi": "17.8",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+},{
+    "Gender": "Male",
+    "HeightCm": 187,
+    "WeightKg": 91,
+    "bmi": "26.0",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Male",
+    "HeightCm": 156,
+    "WeightKg": 88,
+    "bmi": "36.2",
+    "healthRisk": "HighRisk",
+    "BMICategory": "Severely obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 168,
+    "WeightKg": 56,
+    "bmi": "19.8",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Female",
+    "HeightCm": 185,
+    "WeightKg": 100,
+    "bmi": "29.2",
+    "healthRisk": "EnhancedRisk",
+    "BMICategory": "Overweight"
+},{
+    "Gender": "Female",
+    "HeightCm": 164,
+    "WeightKg": 67,
+    "bmi": "24.9",
+    "healthRisk": "LowRisk",
+    "BMICategory": "Normal weight"
+},{
+    "Gender": "Male",
+    "HeightCm": 171,
+    "WeightKg": 97,
+    "bmi": "33.2",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 169,
+    "WeightKg": 86,
+    "bmi": "30.1",
+    "healthRisk": "MediumRisk",
+    "BMICategory": "Moderately obese"
+},{
+    "Gender": "Male",
+    "HeightCm": 150,
+    "WeightKg": 93,
+    "bmi": "41.3",
+    "healthRisk": "Very HighRisk",
+    "BMICategory": "Very Moderately obese"
+},{
+    "Gender": "Female",
+    "HeightCm": 198,
+    "WeightKg": 51,
+    "bmi": "13.0",
+    "healthRisk": "MalnutritionRisk",
+    "BMICategory": "UnderWeight"
+}]
